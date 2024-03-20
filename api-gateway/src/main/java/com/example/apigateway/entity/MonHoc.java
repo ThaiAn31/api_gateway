@@ -1,7 +1,6 @@
 package com.example.apigateway.entity;
 
 
-
 public class MonHoc {
 
     private String id;
